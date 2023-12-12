@@ -23,5 +23,5 @@ Before using or modifying this code, ensure that you have the following prerequi
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yourusername/educational-keylogger.git
+   ```github CLI
+   gh repo clone tanishhhhh/keyLogger
