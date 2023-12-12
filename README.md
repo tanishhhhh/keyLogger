@@ -1,2 +1,27 @@
-# keyLogger
- # Python Keylogger  **Educational Use Only**  Explore Python, keyboard input, and email handling. For learning purposes. No unauthorized or malicious use. MIT License.  ---
+# Educational Keylogger
+
+**Note: This project is for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Respect privacy and adhere to the law. Use this code responsibly.**
+
+## Introduction
+
+This educational keylogger is designed to demonstrate basic concepts of Python programming, keyboard input handling, and email communication. It is intended for educational purposes only and should not be used for any unauthorized or malicious activities.
+
+## Features
+
+- Captures keyboard input and logs it.
+- Sends periodic email reports containing the logged data.
+- Demonstrates the use of Python libraries for keyboard input and email communication.
+
+## Prerequisites
+
+Before using or modifying this code, ensure that you have the following prerequisites:
+
+- Python 3.x installed
+- Required Python libraries installed (`pynput`, `smtplib`, etc.)
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/educational-keylogger.git
